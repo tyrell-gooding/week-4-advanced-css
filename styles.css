@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 3rem;
+    margin: 2rem;
+    text-align: center;
+    background-color: black;
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(back.png);
+    
+    
+}

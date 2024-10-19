@@ -1,0 +1,28 @@
+/* html {
+    height: 100vh; 
+    width: 100vw;
+} */
+ body{
+    background-color: #041E42;
+ }
+.stars {
+    position: absolute;
+    width: 500px;
+    height: 364px;
+}
+table {
+    width: 1200px;
+    border-collapse: collapse;
+   
+}
+
+.red {
+    background-color: red;
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+    height: 50px;
+
+}
